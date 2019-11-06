@@ -1,0 +1,1 @@
+export const COMPONENTS_REGISTRY: {[key: string]: any} = {};
